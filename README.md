@@ -25,3 +25,5 @@ package.json
 ```
 
 yarn electron:serve
+
+yarn add bootstrap@next
